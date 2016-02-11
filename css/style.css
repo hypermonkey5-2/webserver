@@ -1,0 +1,27 @@
+#HeaderGrovalNav{
+	width: 520px;
+	height: 40px;
+	margin: auto;
+}
+
+#HeaderGrovalNav li{
+	display: block;
+	line-height: 40px;
+	vertical-align: baseline;
+	width: 120px;
+	float: left;
+	background-color: green;
+	text-align: center;
+	color: white;
+}
+
+.Contents{
+	overflow: scroll;
+	display: block;
+	background-color: lightgreen;
+	box-sizing: border-box;
+	width: 600px;
+	height: 800px;
+	margin: auto;
+	padding: 20px;
+}
